@@ -1,0 +1,31 @@
+{
+  "at": "2026-07-06T10:14:50.566Z",
+  "dryRun": true,
+  "applied": [],
+  "errors": [],
+  "listings": [
+    {
+      "id": "chalet-loir",
+      "kpis": {
+        "occ": 35.48,
+        "occExclBlocked": 40.74,
+        "nightsBooked": 11,
+        "nightsFree": 20,
+        "guestsPerRes": 4.2,
+        "nightsPerRes": 2.2,
+        "avgPerRes": 242.36,
+        "revpar": 110.16,
+        "grossRevenue": 18.18,
+        "commissions": 183.84,
+        "netRevenue": 1008.13,
+        "tourismTax": 19.83,
+        "cleaning": 50,
+        "checkins": 5,
+        "airbnbPct": 18.18,
+        "bookingPct": 18.18
+      },
+      "dynFactor": 0.9,
+      "planSize": 60
+    }
+  ]
+}
