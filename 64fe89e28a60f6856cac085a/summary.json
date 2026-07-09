@@ -1,5 +1,5 @@
 {
-  "at": "2026-07-08T07:55:38.020Z",
+  "at": "2026-07-09T08:58:01.760Z",
   "dryRun": true,
   "applied": [],
   "errors": [],
@@ -8,7 +8,7 @@
       "id": "chalet-loir",
       "kpis": {
         "occ": 29.03,
-        "occExclBlocked": 34.62,
+        "occExclBlocked": 36,
         "nightsBooked": 9,
         "nightsFree": 22,
         "guestsPerRes": 4.75,
