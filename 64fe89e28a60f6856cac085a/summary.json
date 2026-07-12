@@ -1,5 +1,5 @@
 {
-  "at": "2026-07-11T07:25:46.932Z",
+  "at": "2026-07-12T07:41:52.489Z",
   "dryRun": true,
   "applied": [],
   "errors": [],
@@ -7,24 +7,24 @@
     {
       "id": "chalet-loir",
       "kpis": {
-        "occ": 38.71,
-        "occExclBlocked": 52.17,
-        "nightsBooked": 12,
-        "nightsFree": 19,
+        "occ": 41.94,
+        "occExclBlocked": 56.52,
+        "nightsBooked": 13,
+        "nightsFree": 18,
         "guestsPerRes": 4,
-        "nightsPerRes": 2,
-        "avgPerRes": 232.49,
-        "revpar": 116.24,
-        "grossRevenue": 33.33,
-        "commissions": 210.88,
-        "netRevenue": 1160.89,
-        "tourismTax": 23.15,
+        "nightsPerRes": 1.86,
+        "avgPerRes": 215.3,
+        "revpar": 115.93,
+        "grossRevenue": 30.77,
+        "commissions": 227.45,
+        "netRevenue": 1254.82,
+        "tourismTax": 24.81,
         "cleaning": 75,
-        "checkins": 6,
-        "airbnbPct": 33.33,
-        "bookingPct": 33.33
+        "checkins": 7,
+        "airbnbPct": 30.77,
+        "bookingPct": 30.77
       },
-      "dynFactor": 0.9,
+      "dynFactor": 1,
       "planSize": 60
     }
   ]
