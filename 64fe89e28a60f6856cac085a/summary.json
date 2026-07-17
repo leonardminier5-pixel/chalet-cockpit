@@ -1,18 +1,9 @@
 {
-  "at": "2026-07-17T13:30:40.378Z",
+  "at": "2026-07-17T13:48:02.821Z",
   "dryRun": false,
-  "maxChanges": 1,
-  "applied": [
-    {
-      "listing": "chalet-loir",
-      "date": "2026-07-18",
-      "price": 113,
-      "reason": "haute saison · last-minute J-1"
-    }
-  ],
-  "errors": [
-    "[chalet-loir] cellule (582,435): locator.waitFor: Timeout 6000ms exceeded.\nCall log:\n  - waiting for getByRole('textbox', { name: 'Prix' }).first() to be visible\n"
-  ],
+  "maxChanges": 20,
+  "applied": [],
+  "errors": [],
   "listings": [
     {
       "id": "chalet-loir",
@@ -35,9 +26,16 @@
         "bookingPct": 30.77
       },
       "dynFactor": 1,
-      "planSize": 60,
-      "lmWindow": 8,
-      "writable": 2
+      "factors": {
+        "weekend": 1,
+        "weekday": 1
+      },
+      "market": {
+        "weekendMedian": 185,
+        "weekdayMedian": 198
+      },
+      "planSize": 90,
+      "applied": 0
     }
   ]
 }
