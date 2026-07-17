@@ -1,10 +1,17 @@
 {
-  "at": "2026-07-17T13:25:13.171Z",
+  "at": "2026-07-17T13:30:40.378Z",
   "dryRun": false,
   "maxChanges": 1,
-  "applied": [],
+  "applied": [
+    {
+      "listing": "chalet-loir",
+      "date": "2026-07-18",
+      "price": 113,
+      "reason": "haute saison · last-minute J-1"
+    }
+  ],
   "errors": [
-    "[chalet-loir] 2026-07-18: Toast « Tarifs mis à jour » absent après Enregistrer"
+    "[chalet-loir] cellule (582,435): locator.waitFor: Timeout 6000ms exceeded.\nCall log:\n  - waiting for getByRole('textbox', { name: 'Prix' }).first() to be visible\n"
   ],
   "listings": [
     {
