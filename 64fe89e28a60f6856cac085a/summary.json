@@ -1,8 +1,11 @@
 {
-  "at": "2026-07-17T07:34:11.734Z",
-  "dryRun": true,
+  "at": "2026-07-17T13:25:13.171Z",
+  "dryRun": false,
+  "maxChanges": 1,
   "applied": [],
-  "errors": [],
+  "errors": [
+    "[chalet-loir] 2026-07-18: Toast « Tarifs mis à jour » absent après Enregistrer"
+  ],
   "listings": [
     {
       "id": "chalet-loir",
@@ -25,7 +28,9 @@
         "bookingPct": 30.77
       },
       "dynFactor": 1,
-      "planSize": 60
+      "planSize": 60,
+      "lmWindow": 8,
+      "writable": 2
     }
   ]
 }
