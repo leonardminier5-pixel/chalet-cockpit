@@ -1,56 +1,28 @@
 {
-  "at": "2026-07-20T08:26:08.716Z",
+  "at": "2026-07-21T07:56:11.487Z",
   "dryRun": false,
   "maxChanges": 20,
   "applied": [
     {
       "listing": "chalet-loir",
-      "date": "2026-08-01",
-      "old": 150,
-      "price": 161,
+      "date": "2026-07-28",
+      "old": 144,
+      "price": 102,
+      "reason": "haute saison · last-minute J-7"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-07-29",
+      "old": 144,
+      "price": 120,
       "reason": "haute saison"
     },
     {
       "listing": "chalet-loir",
-      "date": "2026-08-21",
-      "old": 150,
-      "price": 161,
-      "reason": "haute saison"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-02",
-      "old": 130,
-      "price": 140,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-03",
-      "old": 130,
-      "price": 140,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-09",
-      "old": 130,
-      "price": 140,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-10",
-      "old": 130,
-      "price": 140,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-16",
-      "old": 130,
-      "price": 140,
-      "reason": "grille de base"
+      "date": "2026-07-27",
+      "old": 144,
+      "price": 102,
+      "reason": "haute saison · last-minute J-6"
     }
   ],
   "errors": [],
@@ -77,15 +49,15 @@
       },
       "dynFactor": 1,
       "factors": {
-        "weekend": 1.0756578947368423,
+        "weekend": 1,
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 218,
+        "weekendMedian": 216,
         "weekdayMedian": 196
       },
       "planSize": 90,
-      "applied": 7
+      "applied": 3
     }
   ]
 }
