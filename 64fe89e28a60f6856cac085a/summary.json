@@ -1,29 +1,44 @@
 {
-  "at": "2026-07-27T08:56:29.716Z",
+  "at": "2026-07-28T08:01:14.660Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [],
+  "applied": [
+    {
+      "listing": "chalet-loir",
+      "date": "2026-07-29",
+      "old": 108,
+      "price": 90,
+      "reason": "haute saison · last-minute J-1"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-21",
+      "old": 180,
+      "price": 150,
+      "reason": "haute saison"
+    }
+  ],
   "errors": [],
   "listings": [
     {
       "id": "chalet-loir",
       "kpis": {
-        "occ": 41.94,
-        "occExclBlocked": 72.22,
-        "nightsBooked": 13,
-        "nightsFree": 18,
+        "occ": 45.16,
+        "occExclBlocked": 82.35,
+        "nightsBooked": 14,
+        "nightsFree": 17,
         "guestsPerRes": 4,
-        "nightsPerRes": 1.86,
-        "avgPerRes": 215.3,
-        "revpar": 115.93,
-        "grossRevenue": 30.77,
-        "commissions": 227.45,
-        "netRevenue": 1254.82,
-        "tourismTax": 24.81,
-        "cleaning": 75,
-        "checkins": 7,
-        "airbnbPct": 30.77,
-        "bookingPct": 30.77
+        "nightsPerRes": 1.75,
+        "avgPerRes": 209.62,
+        "revpar": 119.78,
+        "grossRevenue": 35.71,
+        "commissions": 253.26,
+        "netRevenue": 1395.51,
+        "tourismTax": 28.2,
+        "cleaning": 87.5,
+        "checkins": 8,
+        "airbnbPct": 35.71,
+        "bookingPct": 35.71
       },
       "dynFactor": 1,
       "factors": {
@@ -32,10 +47,10 @@
       },
       "market": {
         "weekendMedian": 201,
-        "weekdayMedian": 183
+        "weekdayMedian": 190
       },
       "planSize": 90,
-      "applied": 0
+      "applied": 2
     }
   ]
 }
