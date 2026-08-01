@@ -1,29 +1,72 @@
 {
-  "at": "2026-07-31T08:17:50.802Z",
+  "at": "2026-08-01T07:42:40.376Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [],
+  "applied": [
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-21",
+      "old": 180,
+      "price": 150,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-25",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-28",
+      "old": 180,
+      "price": 150,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-30",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-24",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-27",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    }
+  ],
   "errors": [],
   "listings": [
     {
       "id": "chalet-loir",
       "kpis": {
-        "occ": 45.16,
-        "occExclBlocked": 93.33,
-        "nightsBooked": 14,
-        "nightsFree": 17,
-        "guestsPerRes": 4,
-        "nightsPerRes": 1.75,
-        "avgPerRes": 209.62,
-        "revpar": 119.78,
-        "grossRevenue": 35.71,
-        "commissions": 253.26,
-        "netRevenue": 1395.51,
-        "tourismTax": 28.2,
+        "occ": 61.29,
+        "occExclBlocked": 61.29,
+        "nightsBooked": 19,
+        "nightsFree": 12,
+        "guestsPerRes": 3.83,
+        "nightsPerRes": 3.17,
+        "avgPerRes": 300.59,
+        "revpar": 94.92,
+        "grossRevenue": 52.63,
+        "commissions": 295.2,
+        "netRevenue": 1481.73,
+        "tourismTax": 26.58,
         "cleaning": 87.5,
-        "checkins": 8,
-        "airbnbPct": 35.71,
-        "bookingPct": 35.71
+        "checkins": 6,
+        "airbnbPct": 52.63,
+        "bookingPct": 52.63
       },
       "dynFactor": 1,
       "factors": {
@@ -32,10 +75,10 @@
       },
       "market": {
         "weekendMedian": 201,
-        "weekdayMedian": 201
+        "weekdayMedian": 195
       },
       "planSize": 90,
-      "applied": 0
+      "applied": 6
     }
   ]
 }
