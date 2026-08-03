@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-02T07:50:29.707Z",
+  "at": "2026-08-03T08:49:17.022Z",
   "dryRun": false,
   "maxChanges": 20,
   "applied": [
@@ -19,6 +19,20 @@
     },
     {
       "listing": "chalet-loir",
+      "date": "2026-08-26",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-27",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
       "date": "2026-08-28",
       "old": 180,
       "price": 150,
@@ -26,7 +40,21 @@
     },
     {
       "listing": "chalet-loir",
-      "date": "2026-08-27",
+      "date": "2026-08-30",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-31",
+      "old": 150,
+      "price": 120,
+      "reason": "haute saison"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-23",
       "old": 150,
       "price": 120,
       "reason": "haute saison"
@@ -71,7 +99,7 @@
         "weekdayMedian": 198
       },
       "planSize": 90,
-      "applied": 5
+      "applied": 9
     }
   ]
 }
