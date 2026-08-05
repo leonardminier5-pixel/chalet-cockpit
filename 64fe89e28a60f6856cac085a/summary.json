@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-04T08:03:01.066Z",
+  "at": "2026-08-05T08:03:49.162Z",
   "dryRun": false,
   "maxChanges": 20,
   "applied": [],
@@ -31,8 +31,8 @@
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 201,
-        "weekdayMedian": 191
+        "weekendMedian": 205,
+        "weekdayMedian": 198
       },
       "planSize": 90,
       "applied": 0
