@@ -1,8 +1,16 @@
 {
-  "at": "2026-08-07T06:49:23.793Z",
+  "at": "2026-08-08T06:09:10.390Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [],
+  "applied": [
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-15",
+      "old": 213,
+      "price": 157,
+      "reason": "Assomption + Montoire · last-minute J-7"
+    }
+  ],
   "errors": [],
   "listings": [
     {
@@ -31,11 +39,11 @@
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 201,
+        "weekendMedian": 202,
         "weekdayMedian": 198
       },
       "planSize": 90,
-      "applied": 0
+      "applied": 1
     }
   ]
 }
