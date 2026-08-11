@@ -1,37 +1,29 @@
 {
-  "at": "2026-08-10T06:52:36.565Z",
+  "at": "2026-08-11T06:29:27.330Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [
-    {
-      "listing": "chalet-loir",
-      "date": "2026-08-16",
-      "old": 161,
-      "price": 119,
-      "reason": "Montoire dimanche · last-minute J-6"
-    }
-  ],
+  "applied": [],
   "errors": [],
   "listings": [
     {
       "id": "chalet-loir",
       "kpis": {
-        "occ": 61.29,
-        "occExclBlocked": 63.33,
-        "nightsBooked": 19,
-        "nightsFree": 12,
-        "guestsPerRes": 3.83,
-        "nightsPerRes": 3.17,
-        "avgPerRes": 300.59,
-        "revpar": 94.92,
-        "grossRevenue": 52.63,
-        "commissions": 295.2,
-        "netRevenue": 1481.73,
-        "tourismTax": 26.58,
-        "cleaning": 87.5,
-        "checkins": 6,
-        "airbnbPct": 52.63,
-        "bookingPct": 52.63
+        "occ": 64.52,
+        "occExclBlocked": 66.67,
+        "nightsBooked": 20,
+        "nightsFree": 11,
+        "guestsPerRes": 3.43,
+        "nightsPerRes": 2.86,
+        "avgPerRes": 283.96,
+        "revpar": 99.39,
+        "grossRevenue": 55,
+        "commissions": 323.41,
+        "netRevenue": 1635.52,
+        "tourismTax": 28.78,
+        "cleaning": 112.5,
+        "checkins": 7,
+        "airbnbPct": 55,
+        "bookingPct": 55
       },
       "dynFactor": 1,
       "factors": {
@@ -39,11 +31,11 @@
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 205,
+        "weekendMedian": 190,
         "weekdayMedian": 198
       },
       "planSize": 90,
-      "applied": 1
+      "applied": 0
     }
   ]
 }
