@@ -1,15 +1,23 @@
 {
-  "at": "2026-08-15T05:53:04.708Z",
+  "at": "2026-08-16T05:56:01.533Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [],
+  "applied": [
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-23",
+      "old": 160,
+      "price": 119,
+      "reason": "haute saison · last-minute J-7"
+    }
+  ],
   "errors": [],
   "listings": [
     {
       "id": "chalet-loir",
       "kpis": {
         "occ": 64.52,
-        "occExclBlocked": 66.67,
+        "occExclBlocked": 68.97,
         "nightsBooked": 20,
         "nightsFree": 11,
         "guestsPerRes": 3.43,
@@ -31,11 +39,11 @@
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 201,
-        "weekdayMedian": 191
+        "weekendMedian": 185,
+        "weekdayMedian": 194
       },
       "planSize": 90,
-      "applied": 0
+      "applied": 1
     }
   ]
 }
