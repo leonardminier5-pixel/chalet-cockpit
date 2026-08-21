@@ -1,28 +1,28 @@
 {
-  "at": "2026-08-20T05:58:25.938Z",
+  "at": "2026-08-21T06:00:03.354Z",
   "dryRun": false,
   "maxChanges": 20,
   "applied": [
     {
       "listing": "chalet-loir",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "old": 119,
-      "price": 105,
-      "reason": "haute saison · last-minute J-3"
+      "price": 137,
+      "reason": "haute saison · last-minute J-4"
     },
     {
       "listing": "chalet-loir",
       "date": "2026-08-27",
-      "old": 160,
-      "price": 119,
-      "reason": "haute saison · last-minute J-7"
+      "old": 119,
+      "price": 137,
+      "reason": "haute saison · last-minute J-6"
     },
     {
       "listing": "chalet-loir",
       "date": "2026-08-26",
-      "old": 160,
-      "price": 119,
-      "reason": "haute saison · last-minute J-6"
+      "old": 119,
+      "price": 137,
+      "reason": "haute saison · last-minute J-5"
     }
   ],
   "errors": [],
@@ -30,30 +30,30 @@
     {
       "id": "chalet-loir",
       "kpis": {
-        "occ": 64.52,
-        "occExclBlocked": 68.97,
-        "nightsBooked": 20,
-        "nightsFree": 11,
-        "guestsPerRes": 3.43,
-        "nightsPerRes": 2.86,
-        "avgPerRes": 283.96,
-        "revpar": 99.39,
-        "grossRevenue": 55,
-        "commissions": 323.41,
-        "netRevenue": 1635.52,
-        "tourismTax": 28.78,
+        "occ": 70.97,
+        "occExclBlocked": 78.57,
+        "nightsBooked": 22,
+        "nightsFree": 9,
+        "guestsPerRes": 3.63,
+        "nightsPerRes": 2.75,
+        "avgPerRes": 270.06,
+        "revpar": 98.2,
+        "grossRevenue": 50,
+        "commissions": 349.12,
+        "netRevenue": 1781.18,
+        "tourismTax": 30.15,
         "cleaning": 112.5,
-        "checkins": 7,
-        "airbnbPct": 55,
-        "bookingPct": 55
+        "checkins": 8,
+        "airbnbPct": 50,
+        "bookingPct": 50
       },
-      "dynFactor": 1,
+      "dynFactor": 1.15,
       "factors": {
         "weekend": 1,
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 202,
+        "weekendMedian": 205,
         "weekdayMedian": 198
       },
       "planSize": 90,
