@@ -1,8 +1,16 @@
 {
-  "at": "2026-08-23T05:57:01.739Z",
+  "at": "2026-08-24T06:05:08.036Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [],
+  "applied": [
+    {
+      "listing": "chalet-loir",
+      "date": "2026-08-27",
+      "old": 137,
+      "price": 121,
+      "reason": "haute saison · last-minute J-3"
+    }
+  ],
   "errors": [],
   "listings": [
     {
@@ -31,11 +39,11 @@
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 185,
-        "weekdayMedian": 190
+        "weekendMedian": 190,
+        "weekdayMedian": 200
       },
       "planSize": 90,
-      "applied": 0
+      "applied": 1
     }
   ]
 }
