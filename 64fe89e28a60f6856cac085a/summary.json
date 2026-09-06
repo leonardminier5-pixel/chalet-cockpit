@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-05T09:15:20.631Z",
+  "at": "2026-09-06T09:36:54.868Z",
   "dryRun": false,
   "maxChanges": 20,
   "applied": [],
@@ -9,7 +9,7 @@
       "id": "chalet-loir",
       "kpis": {
         "occ": 76.67,
-        "occExclBlocked": 82.14,
+        "occExclBlocked": 85.19,
         "nightsBooked": 23,
         "nightsFree": 7,
         "guestsPerRes": 3.5,
@@ -31,8 +31,8 @@
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 190,
-        "weekdayMedian": 190
+        "weekendMedian": 187,
+        "weekdayMedian": 178
       },
       "planSize": 90,
       "applied": 0

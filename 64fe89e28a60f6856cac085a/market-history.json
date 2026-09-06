@@ -2038,5 +2038,45 @@
         "ourTotal": null
       }
     ]
+  },
+  {
+    "at": "2026-09-06T09:36:54.868Z",
+    "listingId": "chalet-loir",
+    "weekendMedian": 187,
+    "weekdayMedian": 178,
+    "scans": [
+      {
+        "date": "2026-09-12",
+        "kind": "weekend",
+        "median": 199,
+        "samples": 32,
+        "listings": 184,
+        "ourTotal": null
+      },
+      {
+        "date": "2026-10-10",
+        "kind": "weekend",
+        "median": 201,
+        "samples": 31,
+        "listings": 177,
+        "ourTotal": 169
+      },
+      {
+        "date": "2026-11-14",
+        "kind": "weekend",
+        "median": 180,
+        "samples": 36,
+        "listings": 148,
+        "ourTotal": 165
+      },
+      {
+        "date": "2026-09-22",
+        "kind": "weekday",
+        "median": 178,
+        "samples": 37,
+        "listings": 244,
+        "ourTotal": null
+      }
+    ]
   }
 ]
