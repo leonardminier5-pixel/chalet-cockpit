@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-11T09:57:08.714Z",
+  "at": "2026-09-12T09:32:35.948Z",
   "dryRun": false,
   "maxChanges": 20,
   "applied": [],
@@ -27,12 +27,12 @@
       },
       "dynFactor": 1.15,
       "factors": {
-        "weekend": 1,
+        "weekend": 1.0627583615182261,
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 190,
-        "weekdayMedian": 190
+        "weekendMedian": 202,
+        "weekdayMedian": 184
       },
       "planSize": 90,
       "applied": 0
