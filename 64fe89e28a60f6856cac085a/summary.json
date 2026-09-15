@@ -1,41 +1,98 @@
 {
-  "at": "2026-09-14T10:55:17.070Z",
+  "at": "2026-09-15T10:21:28.456Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [],
+  "applied": [
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-15",
+      "old": 95,
+      "price": 90,
+      "reason": "grille de base · last-minute J-0"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-16",
+      "old": 95,
+      "price": 90,
+      "reason": "grille de base · last-minute J-1"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-17",
+      "old": 95,
+      "price": 90,
+      "reason": "grille de base · last-minute J-2"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-18",
+      "old": 130,
+      "price": 140,
+      "reason": "grille de base"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-19",
+      "old": 130,
+      "price": 140,
+      "reason": "grille de base"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-20",
+      "old": 95,
+      "price": 102,
+      "reason": "grille de base · last-minute J-5"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-23",
+      "old": 95,
+      "price": 120,
+      "reason": "grille de base"
+    },
+    {
+      "listing": "chalet-loir",
+      "date": "2026-09-22",
+      "old": 95,
+      "price": 102,
+      "reason": "grille de base · last-minute J-7"
+    }
+  ],
   "errors": [],
   "listings": [
     {
       "id": "chalet-loir",
       "kpis": {
-        "occ": 76.67,
-        "occExclBlocked": 85.19,
-        "nightsBooked": 23,
-        "nightsFree": 7,
+        "occ": 43.33,
+        "occExclBlocked": 48.15,
+        "nightsBooked": 13,
+        "nightsFree": 17,
         "guestsPerRes": 3.5,
-        "nightsPerRes": 5.75,
-        "avgPerRes": 556.56,
-        "revpar": 96.79,
-        "grossRevenue": 86.96,
-        "commissions": 336.64,
-        "netRevenue": 1843.22,
-        "tourismTax": 46.36,
+        "nightsPerRes": 3.25,
+        "avgPerRes": 316.79,
+        "revpar": 97.48,
+        "grossRevenue": 76.92,
+        "commissions": 191.18,
+        "netRevenue": 1050.28,
+        "tourismTax": 25.72,
         "cleaning": 50,
         "checkins": 4,
-        "airbnbPct": 86.96,
-        "bookingPct": 86.96
+        "airbnbPct": 76.92,
+        "bookingPct": 76.92
       },
-      "dynFactor": 1.15,
+      "dynFactor": 1,
       "factors": {
         "weekend": 1,
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 196,
-        "weekdayMedian": 187
+        "weekendMedian": 190,
+        "weekdayMedian": 182
       },
       "planSize": 90,
-      "applied": 0
+      "applied": 8
     }
   ]
 }
