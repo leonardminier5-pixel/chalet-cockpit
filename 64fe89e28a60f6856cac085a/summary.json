@@ -1,147 +1,14 @@
 {
-  "at": "2026-09-20T10:00:42.910Z",
+  "at": "2026-09-21T11:00:22.327Z",
   "dryRun": false,
   "maxChanges": 20,
   "applied": [
     {
       "listing": "chalet-loir",
       "date": "2026-09-27",
-      "old": 138,
-      "price": 112,
-      "reason": "grille de base · last-minute J-7"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-01",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-04",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-05",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-06",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-07",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-08",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-11",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-12",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-13",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-14",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-10-15",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-02",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-03",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-04",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-05",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-08",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-09",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-10",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
-    },
-    {
-      "listing": "chalet-loir",
-      "date": "2026-11-12",
-      "old": 120,
-      "price": 132,
-      "reason": "grille de base"
+      "old": 112,
+      "price": 102,
+      "reason": "grille de base · last-minute J-6"
     }
   ],
   "errors": [],
@@ -168,15 +35,15 @@
       },
       "dynFactor": 1,
       "factors": {
-        "weekend": 1.0520833333333333,
-        "weekday": 1.1
+        "weekend": 1,
+        "weekday": 1
       },
       "market": {
-        "weekendMedian": 202,
-        "weekdayMedian": 201
+        "weekendMedian": 197,
+        "weekdayMedian": 175
       },
       "planSize": 90,
-      "applied": 20
+      "applied": 1
     }
   ]
 }
