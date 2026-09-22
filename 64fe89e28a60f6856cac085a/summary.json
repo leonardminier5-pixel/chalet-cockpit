@@ -1,16 +1,8 @@
 {
-  "at": "2026-09-21T11:00:22.327Z",
+  "at": "2026-09-22T10:15:05.512Z",
   "dryRun": false,
   "maxChanges": 20,
-  "applied": [
-    {
-      "listing": "chalet-loir",
-      "date": "2026-09-27",
-      "old": 112,
-      "price": 102,
-      "reason": "grille de base · last-minute J-6"
-    }
-  ],
+  "applied": [],
   "errors": [],
   "listings": [
     {
@@ -39,11 +31,11 @@
         "weekday": 1
       },
       "market": {
-        "weekendMedian": 197,
+        "weekendMedian": 190,
         "weekdayMedian": 175
       },
       "planSize": 90,
-      "applied": 1
+      "applied": 0
     }
   ]
 }
